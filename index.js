@@ -1,3 +1,4 @@
+#! usr/bin/env code
 import inquirer from "inquirer";
 let todos = [];
 let condition = true;
